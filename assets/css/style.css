@@ -63,6 +63,8 @@ section {
     padding: 60px;
 }
 
+/* Hero Style Start */
+
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
@@ -102,6 +104,7 @@ section {
   }
 
   .hero-form label {
+    display: block;
     margin: 0 5px;
   }
 
